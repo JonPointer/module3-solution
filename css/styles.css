@@ -1,0 +1,17 @@
+#nav-list {
+  margin-top: 10px;
+  list-style: none;
+  background: #951C49;
+}
+#nav-list a {
+  color: white;
+}
+#nav-list a:hover {
+  background: black;
+}
+li.divider {
+	color: white;
+}
+#main-content{
+	background: yellow;
+}
